@@ -35,5 +35,5 @@ Since these nodes can be accessed from the complex node and vice versa, in other
 
 Here is a visualized representation of the project implementation (to simplify the picture, only the complete relations of a single node is shown):
 <p align="center">
-  <img src="https://github.com/WellOfSorrows/DS-Project/blob/main/implementation.png?raw=true" alt="Implementation Image."/>
+  <img src="https://github.com/WellOfSorrows/DS-Project/blob/main/pictures/implementation.png?raw=true" alt="Implementation Image."/>
 </p>
